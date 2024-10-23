@@ -1,0 +1,49 @@
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# macOS folder attributes
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.Icon?
+
+# Store the metadata used by macOS, such as Finder tags
+.metadata_never_index
+.metadata_never_index_unless_rootfs
+
+# macOS disk image files
+*.sparsebundle
+*.dmg
+*.sparseimage
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Conda environments
+*.conda
+*.env
+*.yml
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
