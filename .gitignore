@@ -47,3 +47,6 @@ ENV/
 *.tmp
 *.swp
 *.swo
+
+# data folder
+data/
